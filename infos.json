@@ -1,0 +1,12 @@
+{
+  "displayName" : "Drive Infos",
+  "author" : ["Léa DROGUET"],
+  "contributor" : [],
+  "supportedAgent" : ["Windows"],
+  "version" : "1.0",
+  "licence" : "GPLv2",
+  "description" : {
+    "fr" : "Remonte les disques récupérés par Win32 Volume",
+    "en" : "Retrieve drives returned by Win32 Volume"
+  }
+}

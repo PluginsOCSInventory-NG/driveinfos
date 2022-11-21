@@ -1,0 +1,8 @@
+51000 Informations Disques
+51001 Nom
+51002 Label
+51003 Type
+51004 Lettre
+51005 Sytème de fichiers
+51006 Capacité
+51007 Espace libre

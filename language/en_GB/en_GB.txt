@@ -1,0 +1,8 @@
+51000 Drive Information
+51001 Name
+51002 Label
+51003 Drive Type
+51004 Drive Letter
+51005 File System
+51006 Capacity
+51007 Free Space
